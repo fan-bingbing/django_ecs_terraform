@@ -69,7 +69,7 @@ A type record
 Valid certificate link
 
 
-visit <your-chosen-domain>
+visit www.your-domain.com
 
 ## Clean up
 ```bash
